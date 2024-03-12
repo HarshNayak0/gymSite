@@ -1,0 +1,41 @@
+.card {
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 1px 1px 6px;
+    border-radius: 20px;
+    width: 20%;
+    min-width: 300px;
+    float: left;
+    text-align: center;
+    transition: transform .5s ease;
+}
+
+.video {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+}
+
+.exercise-title {
+    text-align: center;
+}
+
+.bottom {
+    text-align: left;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    
+}
+
+.targets {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 10px 0 10px;
+}

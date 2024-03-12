@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
+import Navbar from "./components/navbar/navbar";
+import background from "./gym1.jpg";
+import "./app.css";
+import Card from "./components/card/card";
+import exercises from "./exercises.json";
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <div className="imgonnakms">
+      <Navbar></Navbar>
+      <div className="home" style={{backgroundImage: `url(${background})`}}>
+      <div className="title">ACHEIVE YOUR DREAM PHYSIQUE</div>
+      <button className="beginner-button"formAction="submit">BEGINNER WORKOUT PLAN</button>
+      </div>
+      <h2 className="header" id="repo">Exercise Repository</h2>
+      <div className="exercises">
+        {exercises.map((exercise) => (
+          <Card
+            name={exercise.name}
+            link={exercise.link}
+            numberReps={exercise.numberReps}
+            numberSets={exercise.numberSets}
+            notes={exercise.notes}
+            target={exercise.target}
+          />
+        ))}
+      </div>
+      <h2 className="header" id="repo">Beginner Workout Plan</h2>
+      </div>
+    </>
   );
 }
-
-export default App;

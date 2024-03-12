@@ -1,0 +1,32 @@
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+    min-width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+.navbar ul li {
+    display: inline;
+    padding: 0 2vw 0 2vw;
+    transition: transform .5s ease;
+    border-radius: 5px;
+}
+
+.navbar ul li:last-child {
+    margin-left: auto;
+}
+
+.navbar ul li a {
+    line-height: 1vh;
+    text-decoration: none;
+    color: black;
+}
+
+
+.logo {
+    line-height: 1vh;
+}
+
+.navbar ul li:hover {
+    background-color: rgb(185, 184, 184);
+}

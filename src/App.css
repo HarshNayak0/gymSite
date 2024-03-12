@@ -1,38 +1,58 @@
-.App {
-  text-align: center;
+.home {
+    width: 100vw;
+    margin: auto;
+    border: 2px solid;
+    padding: 1vw;
+    text-align: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.title, .beginner-button {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 3vw;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.beginner-button {
+    color: black;
+    background-color: white;
+    border: none;
+    text-align: center;
+    padding: 1em;
+    border-radius: 10px;
+    margin: auto 0 auto 0;
+    font-weight: 800;
+    font-size: 18px;
+    transition: transform .5s ease;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.beginner-button:hover {
+    transform: scale(1.05);
 }
 
-.App-link {
-  color: #61dafb;
+.exercises {
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    justify-content: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.header {
+    margin-left: 20px;
 }
+
+.title {
+    color: white;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.imgonnakms {
+    overflow: hidden;
+}
+

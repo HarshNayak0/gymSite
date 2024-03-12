@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Bench Press",
+    "numberSets": 4,
+    "numberReps": "6-8",
+    "link": "https://www.youtube.com/embed/gRVjAtPip0Y",
+    "notes": ["remember to arch your back", "push up and back in a 'J' curve", "elbows at 45 degrees"],
+    "target": "Chest, Anterior Delt, Triceps"
+  },
+  {
+    "name": "Inclince DB Press",
+    "numberSets": 4,
+    "numberReps": "6-8",
+    "link": "https://www.youtube.com/embed/8iPEnn-ltC8",
+    "notes": ["slight arch, not too excessive", "minimal incline: only one notch up from flat"],
+    "target": "Upper Chest, Anterior Delt"
+  },
+  {
+    "name": "Pec Fly",
+    "numberSets": 4,
+    "numberReps": "6-8",
+    "link": "https://www.youtube.com/embed/g3T7LsEeDWQ",
+    "notes": ["keep a slight bend in biceps", "squeeze at the peak of motion", "slight arch"],
+    "target": "Chest"
+  },
+  {
+    "name": "Shoulder Press",
+    "numberSets": 4,
+    "numberReps": "6-8",
+    "link": "https://www.youtube.com/embed/qEwKCR5JCog",
+    "notes": ["slight arch", "pause at the bottom and control the eccentric"],
+    "target": "Anterior Delt, Lateral Delt"
+  },
+  {
+    "name": "Cable Lateral Raise",
+    "numberSets": 3,
+    "numberReps": "8-12",
+    "link": "https://www.youtube.com/embed/PPrzBWZDOhA",
+    "notes": ["think about pushing out away from you and not up"],
+    "target": "Lateral Delt, Traps"
+  },
+  {
+    "name": "Tricep Pushdown",
+    "numberSets": "3-4",
+    "numberReps": "8-12",
+    "link": "https://www.youtube.com/embed/2-LAMcpzODU",
+    "notes": ["squeeze at the bottom"],
+    "target": "Triceps"
+  },
+  {
+    "name": "JM Press (Triceps)",
+    "numberSets": 4,
+    "numberReps": "6-8",
+    "link": "https://www.youtube.com/embed/sQJzzZVqV3k",
+    "notes": ["keep barbell at nose/mouth level", "keep elbows tucked in as much as possible"],
+    "target": "Triceps"
+  },
+  {
+    "name": "Lat Pulldown",
+    "numberSets": 4,
+    "numberReps": "6-8",
+    "link": "https://www.youtube.com/embed/Z_3xHwuO8Tk",
+    "notes": ["keep scapula retracted", "think about moving your elbows towards your hips"],
+    "target": "Lats, Teres, Biceps"
+  },
+  {
+    "name": "Lat Pullover",
+    "numberSets": 3,
+    "numberReps": "8-12",
+    "link": "https://www.youtube.com/embed/32auHIqgEoM",
+    "target": "Lats"
+  },
+  {
+    "name": "Barbell Row",
+    "numberSets": 4,
+    "numberReps": "6-8",
+    "link": "https://www.youtube.com/embed/6FZHJGzMFEc",
+    "notes": ["TAKE YOUR TIME TO CORRECT FORM", "keep spine in a neutral position", "remember to brace: this exercise has some core activation"],
+    "target": "Entire Back"
+  },
+  {
+    "name": "Preacher Curl",
+    "numberSets": 4,
+    "numberReps": "6-10",
+    "link": "https://www.youtube.com/embed/Ja6ZlIDONac",
+    "notes": ["control eccentric and finish with partials"],
+    "target": "Biceps"
+  },
+  {
+    "name": "Hammer Curl",
+    "numberSets": 3,
+    "numberReps": "8-12",
+    "link": "https://www.youtube.com/embed/e6poFcCgMrY?feature=share",
+    "target": "Biceps, Brachioradialis"
+  },
+  {
+    "name": "Cable Rear Delt Fly",
+    "numberSets": 3,
+    "numberReps": "8-12",
+    "link": "https://www.youtube.com/embed/sNuKQaQqbOU?feature=share",
+    "notes": ["one arm at a time and allow for adequate rest between arms"],
+    "target": "Rear Delt"
+  },  
+  {
+    "name": "Barbell Squat",
+    "numberSets": 4,
+    "numberReps": "6-8",
+    "link": "https://www.youtube.com/embed/9v3ySm-m8lI",
+    "notes": ["brace core before each rep", "TAKE YOUR TIME TO CORRECT FORM", "HIGH RISK OF INJURY IF DONE INCORRECTLY"],
+    "target": "Glutes, Hamstrings, Quads, Core"
+  },
+  {
+    "name": "Leg Press",
+    "numberSets": 4,
+    "numberReps": "6-8",
+    "link": "https://www.youtube.com/embed/8EMbB0tCn7Q",
+    "notes": ["make sure ass does not come off seat"],
+    "target": "Glutes, Hamstrings, Quads"
+  },
+  {
+    "name": "Romanian Deadlift",
+    "numberSets": 4,
+    "numberReps":"6-8",
+    "link": "https://www.youtube.com/embed/5rIqP63yWFg",
+    "notes": ["push ass out as far as possible"],
+    "target": "Glutes, Hamstrings"
+  },
+  {
+    "name": "Hip Thrust",
+    "numberSets": 4,
+    "numberReps": "6-10",
+    "link": "https://www.youtube.com/embed/XdA_kHlD6JQ",
+    "target": "Glutes"
+  },
+  {
+    "name": "Seated Hamstring Curl",
+    "numberReps": "8-10",
+    "numberSets": 4,
+    "link": "https://www.youtube.com/embed/FsjyMwqKQ7c",
+    "target": "Glutes, Hamstrings"
+  },
+  {
+    "name": "Seated Leg Extensions",
+    "numberReps": "8-10",
+    "numberSets": 4,
+    "link": "https://www.youtube.com/embed/swZQC689o9U",
+    "target": "Quads"
+  },
+  {
+    "name": "Calf Raises",
+    "numberReps": "8-12",
+    "numberSets": 4,
+    "link": "https://www.youtube.com/embed/g_E7_q1z2bo",
+    "target": "Gastrocnemius, Soleus (Seated)",
+    "notes": ["can do seated variation", "can be done with dumbells if machine not available"]
+  }
+]
