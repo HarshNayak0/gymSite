@@ -33,7 +33,7 @@ export default function App() {
           ))}
         </div>
         <h2 className="header" id="repo">
-          Beginner Workout Plan
+          Beginner Workout Program
         </h2>
       </div>
     </>
