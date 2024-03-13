@@ -4,16 +4,13 @@
     min-width: 100vw;
     margin: 0;
     padding: 0;
+    background-color: #1DB954;
 }
 .navbar ul li {
     display: inline;
-    padding: 0 2vw 0 2vw;
+    padding: 0 1vw 0 1vw;
     transition: transform .5s ease;
     border-radius: 5px;
-}
-
-.navbar ul li:last-child {
-    margin-left: auto;
 }
 
 .navbar ul li a {
@@ -28,5 +25,5 @@
 }
 
 .navbar ul li:hover {
-    background-color: rgb(185, 184, 184);
+    background-color: #1a9e48;
 }

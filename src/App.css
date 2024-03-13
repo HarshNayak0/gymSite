@@ -8,19 +8,14 @@
     background-size: cover;
     background-position: center;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.title, .beginner-button {
-    display: inline-block;
-    vertical-align: middle;
-    padding-right: 3vw;
-}
-
 .beginner-button {
     color: black;
-    background-color: white;
+    background-color: #1DB954;
     border: none;
     text-align: center;
     padding: 1em;
@@ -29,6 +24,7 @@
     font-weight: 800;
     font-size: 18px;
     transition: transform .5s ease;
+    margin-top: 10px;
 }
 
 .beginner-button:hover {
@@ -43,7 +39,8 @@
 }
 
 .header {
-    margin-left: 20px;
+    text-align: center;
+    font-size: 48px;
 }
 
 .title {
