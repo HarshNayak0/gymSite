@@ -13,7 +13,7 @@ export default function App() {
           <div className="title">ACHIEVE YOUR DREAM PHYSIQUE</div>
           <div>
             <button className="beginner-button" formAction="submit">
-              BEGINNER WORKOUT PLAN
+              BEGINNER WORKOUT PROGRAM
             </button>
           </div>
         </div>
