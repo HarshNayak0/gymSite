@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://harshnayak0.github.io/gymSite",
+  "homepage": "https://HarshNayak0.github.io/gymSite",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
