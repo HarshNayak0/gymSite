@@ -1,6 +1,6 @@
 import Navbar from "./components/navbar/navbar";
 import background from "./gym1.jpg";
-import "./app.css";
+import "./App.css";
 import Card from "./components/card/card";
 import exercises from "./exercises.json";
 
