@@ -3,12 +3,13 @@ import background from "./gym1.jpg";
 import "./App.css";
 import Card from "./components/card/card";
 import exercises from "./exercises.json";
+import BeginnerSection from "./components/beginnerSection";
 
 export default function App() {
   return (
     <>
       <div className="imgonnakms">
-        <Navbar></Navbar>
+        <Navbar/>
         <div className="home" style={{ backgroundImage: `url(${background})` }}>
           <div className="title">ACHIEVE YOUR DREAM PHYSIQUE</div>
           <div>
@@ -32,9 +33,10 @@ export default function App() {
             />
           ))}
         </div>
-        <h2 className="header" id="repo">
+        <h2 className="header" id="beginner">
           Beginner Workout Program
         </h2>
+            <BeginnerSection/>
       </div>
     </>
   );
